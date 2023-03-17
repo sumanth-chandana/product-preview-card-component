@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/sumanth-chandana/product-review-card-component.git](https://github.com/sumanth-chandana/product-review-card-component.git)
+- Live Site URL: [https://sumanth-chandana.github.io/product-review-card-component/](https://sumanth-chandana.github.io/product-review-card-component/)
 
 ## My process
 
