@@ -93,6 +93,7 @@ p{
     position: relative;
     bottom: 8px;
     left: 10px;
+    text-decoration: line-through;
 }
 h2, p, .orig-price{
     color: var(--Dark-grayish-blue);
